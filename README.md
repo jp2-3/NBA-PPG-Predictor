@@ -1,4 +1,4 @@
-# Title
+# Random Forest and Linear Regression on 24-25 NBA Season
 
 Random forest and linear regreions models on the 24-25 NBA season
 
@@ -31,3 +31,4 @@ Simply complie the script to see the ppg before and after the prediction models 
 ## License
 
 All rights reserved. Do not reuse without permission.
+
